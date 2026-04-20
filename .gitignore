@@ -1,16 +1,10 @@
-# Dataset — too large for GitHub
 data/
-
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
 .venv/
 *.egg-info/
-
-# Environment
 .env
-
-# OS
 .DS_Store
 Thumbs.db
+results/*.pth
