@@ -1,0 +1,23 @@
+[
+  {
+    "lambda": 0.01,
+    "test_accuracy": 54.23,
+    "sparsity": 62.98,
+    "active_weights": 643371,
+    "total_weights": 1737984
+  },
+  {
+    "lambda": 0.1,
+    "test_accuracy": 53.93,
+    "sparsity": 72.83,
+    "active_weights": 472195,
+    "total_weights": 1737984
+  },
+  {
+    "lambda": 0.5,
+    "test_accuracy": 53.81,
+    "sparsity": 89.66,
+    "active_weights": 179689,
+    "total_weights": 1737984
+  }
+]
