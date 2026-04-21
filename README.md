@@ -163,6 +163,8 @@ This endpoint is designed for real business use — a DevOps or MLOps team can q
 
 ![Swagger UI](docs/swagger_ui.png)
 
+![Swagger UI](docs/swagger_ui2.png)
+
 ##  Results Summary
 
 | Lambda (λ) | Test Accuracy | Sparsity Level | Active Weights | Compression | Use Case |
