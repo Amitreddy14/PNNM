@@ -159,6 +159,10 @@ This endpoint is designed for real business use — a DevOps or MLOps team can q
 
 ---
 
+## 🖥️ Live API Preview
+
+![Swagger UI](docs/swagger_ui.png)
+
 ##  Results Summary
 
 | Lambda (λ) | Test Accuracy | Sparsity Level | Active Weights | Compression | Use Case |
